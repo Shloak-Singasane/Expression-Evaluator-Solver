@@ -1,5 +1,4 @@
-# Project Topic :Expression-Evaluator (Build expression tree from postfix,
-Evaluate using postorder traversal)
+# Project Topic :Expression-Evaluator (Build expression tree from postfix, Evaluate using postorder traversal)
 ---
 
 ## Project Description 
